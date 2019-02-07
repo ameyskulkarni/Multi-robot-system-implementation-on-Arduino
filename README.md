@@ -1,0 +1,2 @@
+# Multi-robot-system-implementation-on-Arduino
+Multiple robots coordinate with each other to perform different tasks. Each robot has IR sensors for obstacle detection, IMU and wheel odometer for trajectory tracking control and an Arduino Mega microcontroller. The code is a complete arduino program to run all these sensors and run the robot according to its kinematic model. The program also employs a PID controller for the trajectory tracking control o the robot.
